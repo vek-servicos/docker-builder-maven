@@ -1,1 +1,1 @@
-# docker-builder-maven
+# docker-builder-maven:openjdk-8
